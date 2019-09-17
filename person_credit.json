@@ -1,14 +1,14 @@
 {
-  'creditCard': 3,
-  'unpayCreditCard': 3,
-  'overTimeCreditCard': 1,
-  'over90CreditCard': 0,
-  'houseBrow': 1,
-  'unpayHouseBrow': 1,
-  'overTimeHouseBrow': 0,
-  'over90HouseBrow': 0,
-  'otherBrow': 0,
-  'unpayOtherBrow': 0,
-  'overTimeOtherBrow': 0,
-  'over90OtherBrow': 0
+  "creditCard": 3,
+  "unpayCreditCard": 3,
+  "overTimeCreditCard": 1,
+  "over90CreditCard": 0,
+  "houseBrow": 1,
+  "unpayHouseBrow": 1,
+  "overTimeHouseBrow": 0,
+  "over90HouseBrow": 0,
+  "otherBrow": 0,
+  "unpayOtherBrow": 0,
+  "overTimeOtherBrow": 0,
+  "over90OtherBrow": 0
 }
